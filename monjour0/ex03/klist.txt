@@ -1,0 +1,5 @@
+Credentials cache: API:210F7CD1-6A09-4628-9A17-85B2038FA665
+        Principal: rqouchic@42.FR
+
+		  Issued                Expires               Principal
+		  Aug 26 12:05:16 2019  Sep  2 12:05:01 2019  krbtgt/42.FR@42.FR
